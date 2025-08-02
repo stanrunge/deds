@@ -1,1 +1,7 @@
 venv/
+rl/__pycache__
+dsa/Open_Data_RDW__Gekentekende_voertuigen_brandstof.csv
+rl/tests/__pycache__
+rl/src/__pycache__
+rl/.pytest_cache
+notebooks/.ipynb_checkpoints
